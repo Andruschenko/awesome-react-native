@@ -509,6 +509,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-in-app-utils ★143](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
 - [react-native-image-resizer ★55](https://github.com/bamlab/react-native-image-resizer) - Rescale local image files with React Native.
 - [react-native-keychain ★122](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
+- [react-native-kontaktio ★6](https://github.com/Artirigo/react-native-kontaktio) - [Kontakt.io](https://kontakt.io/) beacon support for React Native. Leverage unique beacon features of the kontakt.io beacon SDK.
 - [react-native-localsearch ★12](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 - [react-native-location ★151](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
 - [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)
